@@ -1,6 +1,6 @@
-# Webpack Incial
+# Aplicación Todos
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack
+Proyecto web que permite tener una lista de tareas pendientes, almacenandolas en el localStorage
 
 ### Notas:
 Hay que reconstruir los módulos de Node con:
